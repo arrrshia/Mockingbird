@@ -1,4 +1,4 @@
-[Mockingbird
+[Mockingbird Dev Post + Video Presentation / Demo
 ](https://devpost.com/software/mockingbird)
 # Inspiration
 
